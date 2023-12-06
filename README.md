@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I'm Luiz Gustavo 
   * I live in Brazil
-  * Working at FanHero as frontend developer :computer:
   * I have learned about Javascript, Css and Html :man_technologist:
   * Studying Systems Analysis and Development :student:
 ## Connect with me:
