@@ -2,7 +2,6 @@
 ## I'm Luiz Gustavo 
   * I live in Brazil
   * I have learned about Javascript, Css and Html :man_technologist:
-  * Studying Systems Analysis and Development :student:
 ## Connect with me:
 <a href="https://www.linkedin.com/in/lgustavos/" target="_blank">
 <img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
